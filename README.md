@@ -34,5 +34,4 @@ This project builds a spam classifier for SMS messages using natural language pr
 ## 📊 Results
 - Achieved **98% accuracy** using a Naive Bayes classifier.
 - Displays a confusion matrix for model evaluation.
-- 
 
